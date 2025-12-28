@@ -53,15 +53,6 @@ Open platform | Free and accessible |
 
 ---
 
-## 🧪 Under Development
-
-- Personalized learning dashboards  
-- Certification system  
-- Contributor program  
-- Community challenges & hackathons  
-
----
-
 ## 🤝 Contributors
 
 Zest Academy is built by passionate learners and builders.
